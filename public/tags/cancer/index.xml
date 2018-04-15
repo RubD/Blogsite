@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer on Biology explorer</title>
+    <link>/tags/cancer/</link>
+    <description>Recent content in Cancer on Biology explorer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ruben Dries</copyright>
+    <lastBuildDate>Sat, 09 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cancer</title>
+      <link>/project/cancer/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cancer/</guid>
+      <description>Cancer genomics to study resistance development and tumor initiation.</description>
+    </item>
+    
+    <item>
+      <title>Immunology</title>
+      <link>/project/immunology/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/immunology/</guid>
+      <description>The role of immunology in cancer progression.</description>
+    </item>
+    
+    <item>
+      <title>Transcription</title>
+      <link>/project/transcription/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/transcription/</guid>
+      <description>Layers of transcriptional control and drugging transcription.</description>
+    </item>
+    
+  </channel>
+</rss>

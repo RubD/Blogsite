@@ -1,0 +1,1524 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.38.2" />
+  <meta name="author" content="Ruben Dries">
+
+  
+  
+  
+  
+  <meta name="description" content="Computational Biologist">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+  
+  
+  
+    
+  
+  
+    
+    
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-109153024-1', 'auto');
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Biology explorer">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Biology explorer">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@//linkedin.com/in/rubendries/">
+  <meta property="twitter:creator" content="@//linkedin.com/in/rubendries/">
+  
+  <meta property="twitter:site" content="@RnDries">
+  <meta property="twitter:creator" content="@RnDries">
+  
+  <meta property="og:site_name" content="Biology explorer">
+  <meta property="og:url" content="/">
+  <meta property="og:title" content="Biology explorer">
+  <meta property="og:description" content="Computational Biologist">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2016-04-20T00:00:00&#43;00:00">
+  
+
+  
+
+  <title>Biology explorer</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/">Biology explorer</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#about" data-target="#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#publications_selected" data-target="#publications_selected">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#projects" data-target="#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#posts" data-target="#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a href="/#cv" data-target="#cv">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#contact" data-target="#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+<span id="homepage" style="display: none"></span>
+
+
+  
+
+
+
+
+
+  
+  
+  
+  <section id="about" class="home-section">
+    <div class="container">
+      
+
+
+
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
+  <div class="col-xs-12 col-md-4">
+    <div id="profile">
+
+      
+      <div class="portrait" style="background-image: url('/img/portrait.jpg');"></div>
+      <meta itemprop="image" content="/img/portrait.jpg">
+      
+
+      <div class="portrait-title">
+        <h2 itemprop="name">Ruben Dries</h2>
+        <h3 itemprop="jobTitle">Computational Biologist</h3>
+
+        
+        
+
+        
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          
+          <span itemprop="name">Harvard Medical School &amp; DFCI</span>
+          
+        </h3>
+        
+      </div>
+
+      <link itemprop="url" href="/">
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        <li>
+          <a itemprop="sameAs" href="mailto:rubendries@gmail.com" target="_blank" rel="noopener">
+            <i class="fa fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//linkedin.com/in/rubendries/" target="_blank" rel="noopener">
+            <i class="fa fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//scholar.google.com/citations?user=7msXSDQAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//researchgate.net/profile/Ruben_Dries" target="_blank" rel="noopener">
+            <i class="ai ai-researchgate big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//github.com/RubD" target="_blank" rel="noopener">
+            <i class="fa fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//twitter.com/RnDries" target="_blank" rel="noopener">
+            <i class="fa fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-8" itemprop="description">
+
+    
+
+<h1 id="biography">Biography</h1>
+
+<p>I am a biology explorer with extensive wet and dry labtraining (both 5+ years), which enables me to facilitate the interaction between highly-specialized fields.
+In this role I&rsquo;ve helped in conceptualizing and driving complex projects, that required high-dimensional analysis, which ultimatley lead to better biological understanding. Altogether, I believe that research is - more than ever - a teamsport which requires a collaborative effort to fully understand and utilize the generated data to answer your biological question.
+As such, I believe that groundbraking science is based on 3 fundamental pillars, (1) crafted and thoughtfull experiments that embrace (2) novel technologies and are lead by (3) data-driven decisions.</p>
+
+
+    <div class="row">
+
+      
+      <div class="col-sm-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Computational Biology</li>
+          
+          <li>Developmental Dynamics</li>
+          
+          <li>Stem Cells</li>
+          
+          <li>Cancer Genomics</li>
+          
+          <li>Single-cell interactome</li>
+          
+          <li>Transcriptional control</li>
+          
+          <li>Immune system reactivation</li>
+          
+          <li>Chromatin Organization</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-sm-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Research Fellow in computational biology, 2016 - current</p>
+              <p class="institution">DFCI &amp; HSPH, Boston USA</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Biomedical Sciences, 2017</p>
+              <p class="institution">University of Leuven, Belgium</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Medical Sciences, 2016</p>
+              <p class="institution">Rotterdam Erasmus University, the Netherlands</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Master in Biomedical sciences, 2009</p>
+              <p class="institution">University of Leuven, Belgium</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BSc in Biomedical sciences, 2007</p>
+              <p class="institution">University of Leuven, Belgium</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="publications_selected" class="home-section">
+    <div class="container">
+      
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Selected Publications</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    
+      
+    
+
+    
+    
+      
+        <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="/publication/canc_disc_sclc_drapkin/" itemprop="url">Genomic and functional fidelity of small cell lung cancer patient-derived xenografts.</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    Small cell lung cancer (SCLC) patient-derived xenografts (PDXs) can be generated from biopsies or circulating tumor cells (CTCs), though scarcity of tissue and low efficiency of tumor growth have previously limited these approaches. Applying an established clinical-translational pipeline for tissue collection and an automated microfluidic platform for CTC-enrichment, we generated 17 biopsy-derived PDXs and 17 CTC-derived PDXs in a two-year timeframe, at 89% and 38% efficiency, respectively. Whole exome sequencing showed that somatic alterations are stably maintained between patient tumors and PDXs. Early-passage PDXs maintain the genomic and transcriptional profiles of the founder PDX. In vivo treatment with etoposide and cisplatin (EP) in 30 PDX models demonstrated greater sensitivity in PDXs from EP naïve patients, and resistance to EP corresponded to increased expression of a MYC gene signature. Finally, serial CTC-derived PDXs generated from an individual patient at multiple time points accurately recapitulated the evolving drug sensitivities of that patient&rsquo;s disease. Collectively, this work highlights the translational potential of this strategy.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    Drapkin BJ, George J, Christensen CL, Mino-Kenudson M, <strong>Dries R</strong>, Sundaresan T, Phat S, Myers DT, Zhong J, Igo P, Hazar-Rethinam MH, LiCausi JA, Gomez-Caraballo M, Kem M, Jani KN, Azimi R, Abedpour N, Menon R, Lakis S, Heist RS, Büttner R, Haas S, Sequist LV, Shaw AT, Wong KK, Hata AN, Toner M, Maheswaran S, Haber DA, Peifer M, Dyson N, Thomas RK, Farago AF
+    
+  </div>
+
+  <div class="pub-publication">
+    In <em>Cancer Discovery</em>.,2018</div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/29483136" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/cancer/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+      
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="publications" class="home-section">
+    <div class="container">
+      
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Recent Publications</h1>
+    
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    
+      
+    
+
+    
+
+    
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Drapkin BJ, George J, Christensen CL, Mino-Kenudson M, <strong>Dries R</strong>, Sundaresan T, Phat S, Myers DT, Zhong J, Igo P, Hazar-Rethinam MH, LiCausi JA, Gomez-Caraballo M, Kem M, Jani KN, Azimi R, Abedpour N, Menon R, Lakis S, Heist RS, Büttner R, Haas S, Sequist LV, Shaw AT, Wong KK, Hata AN, Toner M, Maheswaran S, Haber DA, Peifer M, Dyson N, Thomas RK, Farago AF</span>.
+  <a href="/publication/canc_disc_sclc_drapkin/" itemprop="name">Genomic and functional fidelity of small cell lung cancer patient-derived xenografts.</a>.
+  In <em>Cancer Discovery</em>.,
+  2018.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/29483136" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/cancer/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Akbay EA, Koyama S, Liu Y, <strong>Dries R</strong>, Bufe LE, Silkes M, Alam MM, Magee DM, Jones R, Jinushi M, Kulkarni M, Carretero J, Wang X, Warner-Hatten T, Cavanaugh JD, Osa A, Kumanogoh A, Freeman GJ, Awad MM, Christiani DC, Bueno R, Hammerman PS, Dranoff G, Wong KK.</span>.
+  <a href="/publication/j_thorac_onc_il17_pd1blockade_akbay/" itemprop="name">Interleukin-17A Promotes Lung Tumor Progression through Neutrophil Attraction to Tumor Sites and Mediating Resistance to PD-1 Blockade.</a>.
+  In <em>Journal Thorac Oncol</em>.,
+  2017.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/28483607" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/immunology/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Adeegbe DO, Liu Y, Lizotte PH, Kamihara Y, Aref AR, Almonte C, <strong>Dries R</strong>, Li Y, Liu S, Wang X, Warner-Hatten T, Castrillon J, Yuan GC, Poudel-Neupane N, Zhang H, Guerriero JL, Han S, Awad MM, Barbie DA, Ritz J, Jones SS, Hammerman PS, Bradner J, Quayle SN, Wong KK.</span>.
+  <a href="/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/" itemprop="name">Synergistic Immunostimulatory Effects and Therapeutic Benefit of Combined Histone Deacetylase and Bromodomain Inhibition in Non-Small Cell Lung Cancer.</a>.
+  In <em>Cancer Discov</em>.,
+  2017.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/28408401" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/cancer/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Stryjewska A, <strong>Dries R</strong>, Pieters T, Verstappen G, Conidi A, Coddens K, Francis A, Umans L, van IJcken WF, Berx G, van Grunsven LA, Grosveld FG, Goossens S, Haigh JJ, Huylebroeck D.</span>.
+  <a href="/publication/stem_cells_zeb2_mesc_stryjewska/" itemprop="name">Zeb2 Regulates Cell Fate at the Exit from Epiblast State in Mouse Embryonic Stem Cells.</a>.
+  In <em>Stem Cells</em>.,
+  2017.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/27739137" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/stem-cells/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Lizotte PH, Ivanova EV, Awad MM, Jones RE, Keogh L, Liu H, <strong>Dries R</strong>, Almonte C, Herter-Sprie GS, Santos A, Feeney NB, Paweletz CP, Kulkarni MM, Bass AJ, Rustgi AK, Yuan GC, Kufe DW, Jänne PA, Hammerman PS, Sholl LM, Hodi FS, Richards WG, Bueno R, English JM, Bittinger MA, Wong KK.</span>.
+  <a href="/publication/jci_multiparametric-profiling-nsclc_lizotte/" itemprop="name">Multiparametric profiling of non-small-cell lung cancers reveals distinct immunophenotypes.</a>.
+  In <em>JCI Insight</em>.,
+  2016.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/27699239" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/immunology/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Gomes Fernandes M, Dries R, Roost MS, Semrau S, de Melo Bernardo A, Davis RP, Ramakrishnan R, Szuhai K, Maas E, Umans L, Abon Escalona V, Salvatori D, Deforce D, Van Criekinge W, Huylebroeck D, Mummery C, Zwijsen A, de Sousa Lopes SM.</span>.
+  <a href="/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/" itemprop="name">BMP-SMAD Signaling Regulates Lineage Priming, but Is Dispensable for Self-Renewal in Mouse Embryonic Stem Cells.</a>.
+  In <em>Stem Cell Reports</em>.,
+  2016.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/26711875" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/stem-cells/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Deng J, Wang ES, Jenkins RW, Li S, <strong>Dries R</strong>, Yates K, Chhabra S, Huang W, Liu H, Aref AR, Ivanova E, Paweletz CP, Bowden M, Zhou CW, Herter-Sprie GS, Sorrentino JA, Bisi JE, Lizotte PH, Merlino AA, Quinn MM, Bufe LE, Yang A, Zhang Y, Zhang H, Gao P, Chen T, Cavanaugh ME, Rode AJ, Haines E, Roberts PJ, Strum JC, Richards WG, Lorch JH, Parangi S, Gunda V, Boland GM, Bueno R, Palakurthi S, Freeman GJ, Ritz J, Haining WN, Sharpless NE, Arthanari H, Shapiro GI, Barbie DA, Gray NS, Wong KK</span>.
+  <a href="/publication/canc_disc_cdk4_6_inhibition_jiehui/" itemprop="name">CDK4/6 Inhibition Augments Anti-Tumor Immunity by Enhancing T Cell Activation.</a>.
+  In <em>Cancer Discovery</em>.,
+  2013.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/immunology/">
+  Project
+</a>
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/29101163" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://example.org" target="_blank" rel="noopener">
+  Custom Link
+</a>
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    van den Berghe V, Stappers E, Vandesande B, Dimidschstein J, Kroes R, Francis A, Conidi A, Lesage F, Dries R, Cazzola S, Berx G, Kessaris N, Vanderhaeghen P, van Ijcken W, Grosveld FG, Goossens S, Haigh JJ, Fishell G, Goffinet A, Aerts S, Huylebroeck D, Seuntjens E.</span>.
+  <a href="/publication/neuron_zeb2_interneurons_vandenberghe/" itemprop="name">Directed migration of cortical interneurons depends on the cell-autonomous action of Sip1.</a>.
+  In <em>Neuron</em>.,
+  2013.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/23312517" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/stem-cells/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Conidi A, Cazzola S, Beets K, Coddens K, Collart C, Cornelis F, Cox L, Joke D, Dobreva MP, Dries R, Esguerra C, Francis A, Ibrahimi A, Kroes R, Lesage F, Maas E, Moya I, Pereira PN, Stappers E, Stryjewska A, van den Berghe V, Vermeire L, Verstappen G, Seuntjens E, Umans L, Zwijsen A, Huylebroeck D.</span>.
+  <a href="/publication/review_tgf-b/" itemprop="name">Few Smad proteins and many Smad-interacting proteins yield multiple functions and action modes in TGFβ/BMP signaling in vivo.</a>.
+  In <em>Cytokine Growth Factor Rev</em>.,
+  2011.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.ncbi.nlm.nih.gov/pubmed/22119658" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/stem-cells/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="talks" class="home-section">
+    <div class="container">
+      
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Recent &amp; Upcoming Talks</h1>
+    
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
+  <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name"><a href="/talk/example-talk/">Example Talk</a></span>
+  <div itemprop="startDate">
+    
+    2030-06-01
+    
+      13:00
+    
+  </div>
+  <div class="talk-metadata">
+    
+            Academic Theme Conference
+    
+  </div>
+  <div class="talk-links">
+    
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/deep-learning/">
+  Project
+</a>
+
+
+
+  </div>
+</div>
+
+      
+    
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="posts" class="home-section">
+    <div class="container">
+      
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>Recent Posts</h1>
+    
+    
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+    
+
+    
+      
+
+      
+      
+
+        
+
+        
+        
+
+        
+        
+          
+      
+
+      
+      
+        
+        
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+        Last updated on
+    
+    <time datetime="2016-04-20 00:00:00 -0400 EDT" itemprop="datePublished dateModified">
+      2018-01-13
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Ruben Dries">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+
+  
+
+  
+
+</div>
+
+
+  
+  
+  <a href="/post/getting-started/">
+    
+    
+      <img src="/img/headers/getting-started.png" class="article-banner" itemprop="image">
+    
+  </a>
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="/post/getting-started/" itemprop="url">Academic: the website designer for Hugo</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    <p>Create a beautifully simple website or blog in under 10 minutes.</p>
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="/post/getting-started/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+      
+
+      
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="cv" class="home-section">
+    <div class="container">
+      
+
+
+<div class="row">
+  
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>CV</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    <p>Here you can download my <a href="/pdf/CV_RubenDries_public.pdf">CV</a></p>
+
+  </div>
+  
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="projects" class="home-section">
+    <div class="container">
+      
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Projects</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    
+    
+    <span class="hidden default-project-filter">*</span>
+    
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group">
+            
+              <a href="#" data-filter="*" class="btn btn-primary btn-large active">All</a>
+            
+              <a href="#" data-filter=".stem-cells" class="btn btn-primary btn-large">Stem cells</a>
+            
+              <a href="#" data-filter=".immunology" class="btn btn-primary btn-large">Immunology</a>
+            
+              <a href="#" data-filter=".cancer" class="btn btn-primary btn-large">Cancer</a>
+            
+              <a href="#" data-filter=".transcription" class="btn btn-primary btn-large">Transcription</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+
+    
+
+    <div class="row isotope projects-container js-layout-masonry">
+
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item genomics resistance cancer">
+        <div class="card">
+          
+          <a href="/project/cancer/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/cancer.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="/project/cancer/" >Cancer</a></h4>
+            <div class="card-desription">
+              <p>Cancer genomics</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item immunology cancer re-activation">
+        <div class="card">
+          
+          <a href="/project/immunology/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/Cancer_lymphocyte.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="/project/immunology/" >Immunology</a></h4>
+            <div class="card-desription">
+              <p>Immunology in cancer</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item stem-cells neural development">
+        <div class="card">
+          
+          <a href="/project/stem-cells/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/stem-cells.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="/project/stem-cells/" >Stem Cells</a></h4>
+            <div class="card-desription">
+              <p>Stem cells and embryonic development</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item transcription cancer drugs">
+        <div class="card">
+          
+          <a href="/project/transcription/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/transcription.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="/project/transcription/" >Transcription</a></h4>
+            <div class="card-desription">
+              <p>Transcriptional regulation</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+
+    </div>
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="tags" class="home-section">
+    <div class="container">
+      
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Tags</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    
+      
+      
+
+      
+      
+      
+      
+      
+
+      <div id="tag-cloud">
+        
+          
+          
+          
+          
+          
+          <a href="/tags/academic" style="font-size:0.8rem">academic</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/cancer" style="font-size:2.1472181256129828rem">cancer</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/development" style="font-size:0.8rem">development</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/drugs" style="font-size:0.8rem">drugs</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/genomics" style="font-size:0.8rem">genomics</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/immunology" style="font-size:0.8rem">immunology</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/neural" style="font-size:0.8rem">neural</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/re-activation" style="font-size:0.8rem">re-activation</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/resistance" style="font-size:0.8rem">resistance</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/stem-cells" style="font-size:0.8rem">stem-cells</a>
+        
+          
+          
+          
+          
+          
+          <a href="/tags/transcription" style="font-size:0.8rem">transcription</a>
+        
+      </div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="contact" class="home-section">
+    <div class="container">
+      
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Contact</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    <ul class="fa-ul" itemscope>
+
+      
+      <li>
+        <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
+        <span id="person-email" itemprop="email"><a href="mailto:rubendries%20@%20gmail.com">rubendries @ gmail.com</a></span>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <li>
+        <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address" itemprop="address">Longwood Center, 1st Floor, Boston, MA</span>
+      </li>
+      
+
+      
+
+    </ul>
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 Ruben Dries &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+
+

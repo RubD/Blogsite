@@ -1,0 +1,22 @@
++++
+abstract = "Immune checkpoint blockade, exemplified by antibodies targeting the programmed death-1 (PD-1) receptor, can induce durable tumor regressions in some patients. To enhance the efficacy of existing immunotherapies, we screened for small molecules capable of increasing the activity of T cells suppressed by PD-1. Here, we show that short-term exposure to small molecule inhibitors of cyclin-dependent kinases 4 and 6 (CDK4/6) significantly enhances T cell activation, contributing to anti-tumor effects in vivo, due in part to de-repression of Nuclear Factor of Activated T cell (NFAT) family proteins and their target genes, critical regulators of T cell function. Although CDK4/6 inhibitors decrease T cell proliferation, they increase tumor infiltration and activation of effector T cells. Moreover, CDK4/6 inhibition augments the response to PD-1 blockade in a novel ex vivo organotypic tumor spheroid culture system and in multiple in vivo murine syngeneic models, thereby providing a rationale for combining CDK4/6 inhibitors and immunotherapies."
+abstract_short = ""
+authors = ["Deng J, Wang ES, Jenkins RW, Li S, **Dries R**, Yates K, Chhabra S, Huang W, Liu H, Aref AR, Ivanova E, Paweletz CP, Bowden M, Zhou CW, Herter-Sprie GS, Sorrentino JA, Bisi JE, Lizotte PH, Merlino AA, Quinn MM, Bufe LE, Yang A, Zhang Y, Zhang H, Gao P, Chen T, Cavanaugh ME, Rode AJ, Haines E, Roberts PJ, Strum JC, Richards WG, Lorch JH, Parangi S, Gunda V, Boland GM, Bueno R, Palakurthi S, Freeman GJ, Ritz J, Haining WN, Sharpless NE, Arthanari H, Shapiro GI, Barbie DA, Gray NS, Wong KK"]
+date = "2017-11-03"
+image_preview = ""
+math = false
+publication_types = ["2"]
+publication = "In *Cancer Discovery*."
+publication_short = ""
+selected = false
+title = "CDK4/6 Inhibition Augments Anti-Tumor Immunity by Enhancing T Cell Activation."
+url_code = ""
+url_dataset = ""
+url_pdf = "https://www.ncbi.nlm.nih.gov/pubmed/29101163"
+url_project = "project/immunology/"
+url_slides = ""
+url_video = ""
+
++++
+
+**Contribution:** Single-cell RNAseq analysis
