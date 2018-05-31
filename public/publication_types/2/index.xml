@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ruben Dries</copyright>
-    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NK cells mediate synergistic antitumor effects of combined inhibition of HDAC6 and BET in a SCLC preclinical model.</title>
+      <link>/publication/canc_res_nk_cells_hdac6_bet_liu/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/canc_res_nk_cells_hdac6_bet_liu/</guid>
+      <description>Contribution: RNAseq processing and analysis</description>
+    </item>
     
     <item>
       <title>Genomic and functional fidelity of small cell lung cancer patient-derived xenografts.</title>

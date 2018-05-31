@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>NK cells mediate synergistic antitumor effects of combined inhibition of HDAC6 and BET in a SCLC preclinical model.</title>
+      <link>/publication/canc_res_nk_cells_hdac6_bet_liu/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/canc_res_nk_cells_hdac6_bet_liu/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contribution:&lt;/strong&gt; RNAseq processing and analysis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Genomic and functional fidelity of small cell lung cancer patient-derived xenografts.</title>
       <link>/publication/canc_disc_sclc_drapkin/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
@@ -327,15 +337,6 @@ More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $
       <guid>/publication/neuron_zeb2_interneurons_vandenberghe/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Contribution:&lt;/strong&gt; qPCR experiments.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Few Smad proteins and many Smad-interacting proteins yield multiple functions and action modes in TGFβ/BMP signaling in vivo.</title>
-      <link>/publication/review_tgf-b/</link>
-      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/review_tgf-b/</guid>
-      <description></description>
     </item>
     
   </channel>
