@@ -51,5 +51,5 @@ weight = 1
 # Biography
 
 I am a biology explorer with extensive wet and dry labtraining (both 5+ years), which enables me to facilitate the interaction between highly-specialized fields.
-In this role I've helped in conceptualizing and driving complex projects, that required high-dimensional analysis, which ultimatley lead to better biological understanding. Altogether, I believe that research is - more than ever - a teamsport which requires a collaborative effort to fully understand and utilize the generated data to answer your biological question.
+In this role I've helped in conceptualizing and driving complex projects, that required high-dimensional analysis, which ultimately lead to better biological understanding. Altogether, I believe that research is - more than ever - a teamsport which requires a collaborative effort to fully understand and utilize the generated data to answer your biological question.
 As such, I believe that groundbraking science is based on 3 fundamental pillars, (1) crafted and thoughtfull experiments that embrace (2) novel technologies and are lead by (3) data-driven decisions.

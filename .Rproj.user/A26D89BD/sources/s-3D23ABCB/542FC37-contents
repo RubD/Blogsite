@@ -1,8 +1,0 @@
-
-library(blogdown)
-blogdown::build_site()
-blogdown::serve_site()
-blogdown::stop_server()
-
-
-servr::daemon_stop("4326097392")
