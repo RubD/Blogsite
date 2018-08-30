@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Biology explorer</title>
-    <link>/publication_types/2/</link>
+    <link>https://rubendries.com/publication_types/2/</link>
     <description>Recent content in 2 on Biology explorer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ruben Dries</copyright>
     <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rubendries.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NK cells mediate synergistic antitumor effects of combined inhibition of HDAC6 and BET in a SCLC preclinical model.</title>
-      <link>/publication/canc_res_nk_cells_hdac6_bet_liu/</link>
+      <link>https://rubendries.com/publication/canc_res_nk_cells_hdac6_bet_liu/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/canc_res_nk_cells_hdac6_bet_liu/</guid>
+      <guid>https://rubendries.com/publication/canc_res_nk_cells_hdac6_bet_liu/</guid>
       <description>Contribution: RNAseq processing and analysis</description>
     </item>
     
     <item>
       <title>Genomic and functional fidelity of small cell lung cancer patient-derived xenografts.</title>
-      <link>/publication/canc_disc_sclc_drapkin/</link>
+      <link>https://rubendries.com/publication/canc_disc_sclc_drapkin/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/canc_disc_sclc_drapkin/</guid>
+      <guid>https://rubendries.com/publication/canc_disc_sclc_drapkin/</guid>
       <description>Contribution: RNAseq processing and analysis</description>
     </item>
     
     <item>
       <title>Interleukin-17A Promotes Lung Tumor Progression through Neutrophil Attraction to Tumor Sites and Mediating Resistance to PD-1 Blockade.</title>
-      <link>/publication/j_thorac_onc_il17_pd1blockade_akbay/</link>
+      <link>https://rubendries.com/publication/j_thorac_onc_il17_pd1blockade_akbay/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/j_thorac_onc_il17_pd1blockade_akbay/</guid>
+      <guid>https://rubendries.com/publication/j_thorac_onc_il17_pd1blockade_akbay/</guid>
       <description>Contribution: Analysis of expression data.</description>
     </item>
     
     <item>
       <title>Synergistic Immunostimulatory Effects and Therapeutic Benefit of Combined Histone Deacetylase and Bromodomain Inhibition in Non-Small Cell Lung Cancer.</title>
-      <link>/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/</link>
+      <link>https://rubendries.com/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/</guid>
+      <guid>https://rubendries.com/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/</guid>
       <description>Contribution: Single-cell RNAseq analysis.</description>
     </item>
     
     <item>
       <title>Zeb2 Regulates Cell Fate at the Exit from Epiblast State in Mouse Embryonic Stem Cells.</title>
-      <link>/publication/stem_cells_zeb2_mesc_stryjewska/</link>
+      <link>https://rubendries.com/publication/stem_cells_zeb2_mesc_stryjewska/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/stem_cells_zeb2_mesc_stryjewska/</guid>
+      <guid>https://rubendries.com/publication/stem_cells_zeb2_mesc_stryjewska/</guid>
       <description>Contribution: Analysis of RNAseq, RRBS and HT-qPCR data. Writing and editing of manuscript.</description>
     </item>
     
     <item>
       <title>Multiparametric profiling of non-small-cell lung cancers reveals distinct immunophenotypes.</title>
-      <link>/publication/jci_multiparametric-profiling-nsclc_lizotte/</link>
+      <link>https://rubendries.com/publication/jci_multiparametric-profiling-nsclc_lizotte/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/jci_multiparametric-profiling-nsclc_lizotte/</guid>
+      <guid>https://rubendries.com/publication/jci_multiparametric-profiling-nsclc_lizotte/</guid>
       <description>Contribution: Analysis of expression data.</description>
     </item>
     
     <item>
       <title>BMP-SMAD Signaling Regulates Lineage Priming, but Is Dispensable for Self-Renewal in Mouse Embryonic Stem Cells.</title>
-      <link>/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</link>
+      <link>https://rubendries.com/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</link>
       <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</guid>
+      <guid>https://rubendries.com/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</guid>
       <description>Contribution: Analysis of RNAseq and RRBS data. Editing of manuscript. More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>CDK4/6 Inhibition Augments Anti-Tumor Immunity by Enhancing T Cell Activation.</title>
-      <link>/publication/canc_disc_cdk4_6_inhibition_jiehui/</link>
+      <link>https://rubendries.com/publication/canc_disc_cdk4_6_inhibition_jiehui/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/canc_disc_cdk4_6_inhibition_jiehui/</guid>
+      <guid>https://rubendries.com/publication/canc_disc_cdk4_6_inhibition_jiehui/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Directed migration of cortical interneurons depends on the cell-autonomous action of Sip1.</title>
-      <link>/publication/neuron_zeb2_interneurons_vandenberghe/</link>
+      <link>https://rubendries.com/publication/neuron_zeb2_interneurons_vandenberghe/</link>
       <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/neuron_zeb2_interneurons_vandenberghe/</guid>
+      <guid>https://rubendries.com/publication/neuron_zeb2_interneurons_vandenberghe/</guid>
       <description>Contribution: qPCR experiments.</description>
     </item>
     
     <item>
       <title>Few Smad proteins and many Smad-interacting proteins yield multiple functions and action modes in TGFβ/BMP signaling in vivo.</title>
-      <link>/publication/review_tgf-b/</link>
+      <link>https://rubendries.com/publication/review_tgf-b/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>/publication/review_tgf-b/</guid>
+      <guid>https://rubendries.com/publication/review_tgf-b/</guid>
       <description></description>
     </item>
     

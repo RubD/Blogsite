@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Biology explorer</title>
-    <link>/tags/</link>
+    <link>https://rubendries.com/tags/</link>
     <description>Recent content in Tags on Biology explorer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ruben Dries</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rubendries.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
+      <link>https://rubendries.com/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://rubendries.com/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Cancer</title>
-      <link>/tags/cancer/</link>
+      <link>https://rubendries.com/tags/cancer/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cancer/</guid>
+      <guid>https://rubendries.com/tags/cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>/tags/development/</link>
+      <link>https://rubendries.com/tags/development/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>https://rubendries.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drugs</title>
-      <link>/tags/drugs/</link>
+      <link>https://rubendries.com/tags/drugs/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/drugs/</guid>
+      <guid>https://rubendries.com/tags/drugs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genomics</title>
-      <link>/tags/genomics/</link>
+      <link>https://rubendries.com/tags/genomics/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/genomics/</guid>
+      <guid>https://rubendries.com/tags/genomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunology</title>
-      <link>/tags/immunology/</link>
+      <link>https://rubendries.com/tags/immunology/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/immunology/</guid>
+      <guid>https://rubendries.com/tags/immunology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural</title>
-      <link>/tags/neural/</link>
+      <link>https://rubendries.com/tags/neural/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/neural/</guid>
+      <guid>https://rubendries.com/tags/neural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Re-activation</title>
-      <link>/tags/re-activation/</link>
+      <link>https://rubendries.com/tags/re-activation/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/re-activation/</guid>
+      <guid>https://rubendries.com/tags/re-activation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resistance</title>
-      <link>/tags/resistance/</link>
+      <link>https://rubendries.com/tags/resistance/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/resistance/</guid>
+      <guid>https://rubendries.com/tags/resistance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stem-cells</title>
-      <link>/tags/stem-cells/</link>
+      <link>https://rubendries.com/tags/stem-cells/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/stem-cells/</guid>
+      <guid>https://rubendries.com/tags/stem-cells/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcription</title>
-      <link>/tags/transcription/</link>
+      <link>https://rubendries.com/tags/transcription/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/transcription/</guid>
+      <guid>https://rubendries.com/tags/transcription/</guid>
       <description></description>
     </item>
     
