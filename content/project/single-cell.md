@@ -28,4 +28,4 @@ caption = "Borrowed from www.technologynetworks.com"
 
 +++
 
-Single-cell genomics to study cellular variability, fate decisions and regulatory netwroks
+Single-cell genomics to study cellular variability, fate decisions and regulatory networks.
