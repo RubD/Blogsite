@@ -50,6 +50,15 @@
     
     <url>
     
+      <loc>https://rubendries.com/project/single-cell/</loc>
+      <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rubendries.com/project/stem-cells/</loc>
       <lastmod>2017-09-09T00:00:00+00:00</lastmod>
     </url>
@@ -323,6 +332,26 @@
     
     <url>
     
+      <loc>https://rubendries.com/tags/rna-seq/</loc>
+      <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rubendries.com/tags/single-cell/</loc>
+      <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rubendries.com/tags/stem-cells/</loc>
       <lastmod>2017-09-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -344,6 +373,16 @@
     <url>
     
       <loc>https://rubendries.com/tags/transcription/</loc>
+      <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rubendries.com/tags/variability/</loc>
       <lastmod>2017-09-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
