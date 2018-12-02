@@ -220,7 +220,7 @@ defaultContentLanguageInSubdir = false
     link = "mailto:rubendries@gmail.com"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/rubendries/"
 
