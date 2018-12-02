@@ -8,7 +8,7 @@ math = false
 publication_types = ["2"]
 publication = "In *Nature Biotechnology*."
 publication_short = ""
-selected = true
+selected = false
 title = "Identification of spatially associated subpopulations by combining scrNAseq and sequential fluorescence in situ hybridization data."
 url_code = ""
 url_dataset = ""
@@ -19,4 +19,4 @@ url_video = ""
 
 +++
 
-**Contribution:** Ideas, discussion & writing
+**Contribution:** Processing of high-throughput datasets. Data analysis and interpretation. Writing and editing of manuscript.

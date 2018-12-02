@@ -11,12 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CDK12 loss in cancer cells affects DNA damage response genes through premature cleavage and polyadenylation.</title>
+      <link>https://rubendries.com/publication/biorxiv_cdk12_krajewska/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubendries.com/publication/biorxiv_cdk12_krajewska/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contribution:&lt;/strong&gt; Ideas, discussion &amp;amp; writing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Identification of spatially associated subpopulations by combining scrNAseq and sequential fluorescence in situ hybridization data.</title>
       <link>https://rubendries.com/publication/nat_biotech_hmrf_seqfish_zhu/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rubendries.com/publication/nat_biotech_hmrf_seqfish_zhu/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Contribution:&lt;/strong&gt; Ideas, discussion &amp;amp; writing&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Contribution:&lt;/strong&gt; Processing of high-throughput datasets. Data analysis and interpretation. Writing and editing of manuscript.&lt;/p&gt;
 </description>
     </item>
     
@@ -325,17 +335,6 @@ git submodule update --init --recursive
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BMP-SMAD Signaling Regulates Lineage Priming, but Is Dispensable for Self-Renewal in Mouse Embryonic Stem Cells.</title>
-      <link>https://rubendries.com/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</link>
-      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rubendries.com/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Contribution:&lt;/strong&gt; Analysis of RNAseq and RRBS data. Editing of manuscript.
-More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
