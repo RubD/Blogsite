@@ -19,4 +19,4 @@ url_video = ""
 
 +++
 
-**Contribution:** Ideas, discussion & writing
+**Contribution:** Design, processing, analyzing and interpretation of TT-seq and Poly(A)-seq data. Discussing, writing and editing of paper.
