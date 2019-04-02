@@ -11,10 +11,10 @@ weight = 1
 [interests]
   interests = [
     "Computational Biology",
-    "Developmental Dynamics",
-    "Stem Cells",
+    "Developmental & Stem Cells",
     "Cancer Genomics",
-    "Single-cell interactome",
+    "Single-cell surprises",
+    "Spatial omics",
     "Transcriptional control",
     "Immune system reactivation",
     "Chromatin Organization"
