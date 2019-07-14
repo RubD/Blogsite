@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Single-cell genomics to study cellular variability, fate decisions and regulatory networks.">
+  <meta name="description" content="Background: Single-cell RNA-sequencing technologies provide a powerful tool for systematic dissection of cellular heterogeneity. However, the prevalence of dropout events imposes complications during data analysis and, despite numerous efforts from the community, this challenge has yet to be solved.Results: Here we present a computational method, called RESCUE, to mitigate the dropout problem by imputing gene expression levels using information from other cells with similar patterns. Unlike existing methods, we use an ensemble-based approach to minimize the feature selection bias on imputation. By comparative analysis of simulated and real single-cell RNA-seq datasets, we show that RESCUE outperforms existing methods in terms of imputation accuracy which leads to more precise cell-type identification.Conclusions: Taken together, these results suggest that RESCUE is a useful tool for mitigating dropouts in single-cell RNA-seq data. RESCUE is implemented in R and available at https://github.com/seasamgo/rescue.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://rubendries.com/project/single-cell/">
+  <link rel="alternate" hreflang="en-us" href="https://rubendries.com/publication/bmc_bioinform_rescue_tracy/">
 
   
 
@@ -82,7 +82,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://rubendries.com/project/single-cell/">
+  <link rel="canonical" href="https://rubendries.com/publication/bmc_bioinform_rescue_tracy/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -90,19 +90,19 @@
   <meta property="twitter:creator" content="@RnDries">
   
   <meta property="og:site_name" content="Biology explorer">
-  <meta property="og:url" content="https://rubendries.com/project/single-cell/">
-  <meta property="og:title" content="Single-cell | Biology explorer">
-  <meta property="og:description" content="Single-cell genomics to study cellular variability, fate decisions and regulatory networks."><meta property="og:image" content="https://rubendries.com/img/single-cell.jpg">
+  <meta property="og:url" content="https://rubendries.com/publication/bmc_bioinform_rescue_tracy/">
+  <meta property="og:title" content="RESCUE: imputing dropout events in single- cell RNA-sequencing data. | Biology explorer">
+  <meta property="og:description" content="Background: Single-cell RNA-sequencing technologies provide a powerful tool for systematic dissection of cellular heterogeneity. However, the prevalence of dropout events imposes complications during data analysis and, despite numerous efforts from the community, this challenge has yet to be solved.Results: Here we present a computational method, called RESCUE, to mitigate the dropout problem by imputing gene expression levels using information from other cells with similar patterns. Unlike existing methods, we use an ensemble-based approach to minimize the feature selection bias on imputation. By comparative analysis of simulated and real single-cell RNA-seq datasets, we show that RESCUE outperforms existing methods in terms of imputation accuracy which leads to more precise cell-type identification.Conclusions: Taken together, these results suggest that RESCUE is a useful tool for mitigating dropouts in single-cell RNA-seq data. RESCUE is implemented in R and available at https://github.com/seasamgo/rescue.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-09-09T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-07-12T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2017-09-09T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2019-07-12T00:00:00&#43;00:00">
   
 
-  <title>Single-cell | Biology explorer</title>
+  
+
+  <title>RESCUE: imputing dropout events in single- cell RNA-sequencing data. | Biology explorer</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -252,61 +252,53 @@
   </div>
 </nav>
 
-
-<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
-<div class="article-header">
-  
-  
-    <img src="/img/single-cell.jpg" class="article-banner" itemprop="image">
-  
-
-  <span class="article-header-caption">Borrowed from www.technologynetworks.com</span>
-</div>
-
 
 
   <div class="article-container">
-
-    <div class="pub-title">
-      <h1 itemprop="name">Single-cell</h1>
-      <span class="pub-authors" itemprop="author">&nbsp;</span>
-      <span class="pull-right">
-        
+    <h1 itemprop="name">RESCUE: imputing dropout events in single- cell RNA-sequencing data.</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      Tracy S, Yuan GC and <strong>Dries R</strong>
+      
+    </span>
+    <span class="pull-right">
+      
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Single-cell&amp;url=https%3a%2f%2frubendries.com%2fproject%2fsingle-cell%2f"
+         href="https://twitter.com/intent/tweet?text=RESCUE%3a%20imputing%20dropout%20events%20in%20single-%20cell%20RNA-sequencing%20data.&amp;url=https%3a%2f%2frubendries.com%2fpublication%2fbmc_bioinform_rescue_tracy%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2frubendries.com%2fproject%2fsingle-cell%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2frubendries.com%2fpublication%2fbmc_bioinform_rescue_tracy%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2frubendries.com%2fproject%2fsingle-cell%2f&amp;title=Single-cell"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2frubendries.com%2fpublication%2fbmc_bioinform_rescue_tracy%2f&amp;title=RESCUE%3a%20imputing%20dropout%20events%20in%20single-%20cell%20RNA-sequencing%20data."
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2frubendries.com%2fproject%2fsingle-cell%2f&amp;title=Single-cell"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2frubendries.com%2fpublication%2fbmc_bioinform_rescue_tracy%2f&amp;title=RESCUE%3a%20imputing%20dropout%20events%20in%20single-%20cell%20RNA-sequencing%20data."
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Single-cell&amp;body=https%3a%2f%2frubendries.com%2fproject%2fsingle-cell%2f">
+         href="mailto:?subject=RESCUE%3a%20imputing%20dropout%20events%20in%20single-%20cell%20RNA-sequencing%20data.&amp;body=https%3a%2f%2frubendries.com%2fpublication%2fbmc_bioinform_rescue_tracy%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -314,59 +306,71 @@
 </div>
 
 
-      </span>
+    </span>
+
+    
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Background: Single-cell RNA-sequencing technologies provide a powerful tool for systematic dissection of cellular heterogeneity. However, the prevalence of dropout events imposes complications during data analysis and, despite numerous efforts from the community, this challenge has yet to be solved.Results: Here we present a computational method, called RESCUE, to mitigate the dropout problem by imputing gene expression levels using information from other cells with similar patterns. Unlike existing methods, we use an ensemble-based approach to minimize the feature selection bias on imputation. By comparative analysis of simulated and real single-cell RNA-seq datasets, we show that RESCUE outperforms existing methods in terms of imputation accuracy which leads to more precise cell-type identification.Conclusions: Taken together, these results suggest that RESCUE is a useful tool for mitigating dropouts in single-cell RNA-seq data. RESCUE is implemented in R and available at <a href="https://github.com/seasamgo/rescue" target="_blank">https://github.com/seasamgo/rescue</a>.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
     </div>
-
+    <div class="visible-xs space-below"></div>
     
 
-    <div class="article-style" itemprop="articleBody">
-      <p>Single-cell genomics to study cellular variability, fate decisions and regulatory networks.</p>
-
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+          <div class="col-xs-12 col-sm-9">In <em>BMC Bioinformatics</em>.</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
     </div>
-
+    <div class="visible-xs space-below"></div>
     
 
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            2019-07-12
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
 
-<div class="article-tags">
-  
-  <a class="btn btn-primary btn-outline" href="/tags/single-cell">single-cell</a>
-  
-  <a class="btn btn-primary btn-outline" href="/tags/rna-seq">rna-seq</a>
-  
-  <a class="btn btn-primary btn-outline" href="/tags/variability">variability</a>
-  
-</div>
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
 
-
-
-
-    
-    
-    
-
-    
-      
-      
-      
-      
-        <h2>Publications</h2>
-        
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    <strong>Dries R#</strong>, Zhu Q#, Eng CHL, Sarkar A, Bao F, George RE, Pierson N, Cai L, Yuan GC</span>.
-  <a href="https://rubendries.com/publication/biorxiv_giotto_dries/" itemprop="name">Giotto, a pipeline for integrative analysis and visualization of single-cell spatial transcriptomic data.</a>.
-  In <em>BioRxiv</em>.,
-  2019.
-  <p>
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.biorxiv.org/content/10.1101/701680v1" target="_blank" rel="noopener">
-  PDF
-</a>
+            
 
 
 
@@ -375,7 +379,10 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://rubendries.com/project/single-cell/" target="_blank" rel="noopener">
+
+
+
+<a class="btn btn-primary btn-outline" href="https://rubendries.com/project/single-cell/" target="_blank" rel="noopener">
   Project
 </a>
 
@@ -385,245 +392,25 @@
 
 
 
-</p>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><p><strong>Contribution:</strong> Methodology, writing and overview of project.</p>
 </div>
 
-          
-        
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Tracy S, Yuan GC and <strong>Dries R</strong></span>.
-  <a href="https://rubendries.com/publication/bmc_bioinform_rescue_tracy/" itemprop="name">RESCUE: imputing dropout events in single- cell RNA-sequencing data.</a>.
-  In <em>BMC Bioinformatics</em>.,
-  2019.
-  <p>
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://rubendries.com/project/single-cell/" target="_blank" rel="noopener">
-  Project
-</a>
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Chee-Huat Linus eng, Michael Lawson, Qian Zhu, <strong>Ruben Dries</strong>, Noushin Koulena, Yodai takei, Jina Yun, Christopher Cronin, Christoph Karp, Guo-Cheng Yuan &amp; Long Cai</span>.
-  <a href="https://rubendries.com/publication/nat_seqfish_plus_eng/" itemprop="name">Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH&#43;</a>.
-  In <em>Nature</em>.,
-  2019.
-  <p>
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://rubendries.com/project/single-cell/" target="_blank" rel="noopener">
-  Project
-</a>
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Qian Zhu, Sheel Shah, <strong>Ruben Dries</strong>, Long Cai &amp; Guo-Cheng Yuan</span>.
-  <a href="https://rubendries.com/publication/nat_biotech_hmrf_seqfish_zhu/" itemprop="name">Identification of spatially associated subpopulations by combining scrNAseq and sequential fluorescence in situ hybridization data.</a>.
-  In <em>Nature Biotechnology</em>.,
-  2018.
-  <p>
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://rubendries.com/project/single-cell/" target="_blank" rel="noopener">
-  Project
-</a>
-
-
-
-
-
-
-
-</p>
-</div>
-
-          
-        
-      
-
-      
-      
-      
-      
-        <h2>Talks</h2>
-        
-          <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
-  <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name"><a href="https://rubendries.com/publication/biorxiv_giotto_dries/">Giotto, a pipeline for integrative analysis and visualization of single-cell spatial transcriptomic data.</a></span>
-  <div itemprop="startDate">
     
-    2019-07-13
-    
-      00:00
-    
-  </div>
-  <div class="talk-metadata">
-    
-  </div>
-  <div class="talk-links">
-    
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.biorxiv.org/content/10.1101/701680v1">
-  PDF
-</a>
-
-
-
-
-
 
 
   </div>
 </div>
-
-        
-          <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
-  <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name"><a href="https://rubendries.com/publication/bmc_bioinform_rescue_tracy/">RESCUE: imputing dropout events in single- cell RNA-sequencing data.</a></span>
-  <div itemprop="startDate">
-    
-    2019-07-12
-    
-      00:00
-    
-  </div>
-  <div class="talk-metadata">
-    
-  </div>
-  <div class="talk-links">
-    
-
-
-
-
-
-
-
-
-
-  </div>
-</div>
-
-        
-          <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
-  <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name"><a href="https://rubendries.com/publication/nat_seqfish_plus_eng/">Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH&#43;</a></span>
-  <div itemprop="startDate">
-    
-    2019-02-27
-    
-      00:00
-    
-  </div>
-  <div class="talk-metadata">
-    
-  </div>
-  <div class="talk-links">
-    
-
-
-
-
-
-
-
-
-
-  </div>
-</div>
-
-        
-          <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
-  <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name"><a href="https://rubendries.com/publication/nat_biotech_hmrf_seqfish_zhu/">Identification of spatially associated subpopulations by combining scrNAseq and sequential fluorescence in situ hybridization data.</a></span>
-  <div itemprop="startDate">
-    
-    2018-08-27
-    
-      00:00
-    
-  </div>
-  <div class="talk-metadata">
-    
-  </div>
-  <div class="talk-links">
-    
-
-
-
-
-
-
-
-
-
-  </div>
-</div>
-
-        
-      
-    
-
-  </div>
-</article>
 
 
 
