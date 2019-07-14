@@ -6,13 +6,13 @@ date = "2018-12-02"
 image_preview = ""
 math = false
 publication_types = ["2"]
-publication = "In *bioRxiv*."
+publication = "In *Nature Communications*."
 publication_short = ""
-selected = true
+selected = false
 title = "CDK12 loss in cancer cells affects DNA damage response genes through premature cleavage and polyadenylation."
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.biorxiv.org/content/early/2018/11/30/483958?rss=1"
+url_pdf = "https://www.ncbi.nlm.nih.gov/pubmed/30988284"
 url_project = "project/transcription/"
 url_slides = ""
 url_video = ""
