@@ -14,5 +14,5 @@ weight = 50
 
 +++
 
-Here you can download my [CV](/pdf/CV_RubenDries_190302_public.pdf)
+Here you can download my [CV](/pdf/CV_RubenDries_public.pdf)
 
