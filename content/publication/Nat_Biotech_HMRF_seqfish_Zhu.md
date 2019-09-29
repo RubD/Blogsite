@@ -12,7 +12,7 @@ selected = false
 title = "Identification of spatially associated subpopulations by combining scrNAseq and sequential fluorescence in situ hybridization data."
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://www.rubendries.com/pdf/manuscript_Zhu_HMRF_2018.pdf"
 url_project = "project/single-cell/"
 url_slides = ""
 url_video = ""
@@ -20,3 +20,6 @@ url_video = ""
 +++
 
 **Contribution:** Processing of high-throughput datasets. Data analysis and interpretation. Writing and editing of manuscript.
+
+
+![](/img/summary_HMRF_Zhu.png)

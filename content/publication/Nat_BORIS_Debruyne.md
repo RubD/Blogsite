@@ -12,7 +12,7 @@ selected = false
 title = "BORIS promotes chromatin regulatory interactions in treatment-resistant cancer cells."
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.nature.com/articles/s41586-019-1472-0#Abs1"
+url_pdf = "https://www.rubendries.com/pdf/manuscript_Debruyne_BORIS_2019.pdf"
 url_project = "project/cancer/"
 url_slides = ""
 url_video = ""
@@ -20,3 +20,5 @@ url_video = ""
 +++
 
 **Contribution:** Design, processing, analyzing and interpretation of scRNAseq, micro-array, ChIP-seq, HiChIP and public data. Discussing, writing and editing of paper.
+
+![](/img/summary_BORIS_Debruyne.png)

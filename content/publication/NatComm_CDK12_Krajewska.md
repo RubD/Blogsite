@@ -12,7 +12,7 @@ selected = false
 title = "CDK12 loss in cancer cells affects DNA damage response genes through premature cleavage and polyadenylation."
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.ncbi.nlm.nih.gov/pubmed/30988284"
+url_pdf = "https://www.rubendries.com/pdf/manuscript_Krajewska_CDK12_2019.pdf"
 url_project = "project/transcription/"
 url_slides = ""
 url_video = ""
@@ -20,3 +20,5 @@ url_video = ""
 +++
 
 **Contribution:** Design, processing, analyzing and interpretation of TT-seq and Poly(A)-seq data. Discussing, writing and editing of paper.
+
+![](/img/summary_CDK12_Krajewska.png)

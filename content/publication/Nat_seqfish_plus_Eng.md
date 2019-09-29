@@ -12,7 +12,7 @@ selected = false
 title = "Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://www.rubendries.com/pdf/manuscript_Eng_seqfish_2019.pdf"
 url_project = "project/single-cell/"
 url_slides = ""
 url_video = ""
@@ -20,3 +20,5 @@ url_video = ""
 +++
 
 **Contribution:** Data analysis and interpretation. Writing and editing of manuscript.
+
+![](/img/summary_seqfish_Eng.png)

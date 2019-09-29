@@ -12,7 +12,7 @@ selected = false
 title = "Genomic and functional fidelity of small cell lung cancer patient-derived xenografts."
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.ncbi.nlm.nih.gov/pubmed/29483136"
+url_pdf = "https://www.rubendries.com/pdf/manuscript_Drapkin_PDX_2018.pdf"
 url_project = "project/cancer/"
 url_slides = ""
 url_video = ""
@@ -20,3 +20,5 @@ url_video = ""
 +++
 
 **Contribution:** RNAseq processing and analysis
+
+![](/img/summary_PDX_Drapkin.png)

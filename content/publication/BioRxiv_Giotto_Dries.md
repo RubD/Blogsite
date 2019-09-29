@@ -12,7 +12,7 @@ selected = true
 title = "Giotto, a pipeline for integrative analysis and visualization of single-cell spatial transcriptomic data."
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.biorxiv.org/content/10.1101/701680v1"
+url_pdf = "https://www.rubendries.com/pdf/manuscript_Dries_Giotto_2019.pdf"
 url_project = "project/single-cell/"
 url_slides = ""
 url_video = ""
@@ -20,3 +20,5 @@ url_video = ""
 +++
 
 **Contribution:** Design and build of Giotto Analyzer. Discussing, writing and editing of paper.
+
+![](/img/summary_Giotto_Dries.png)
