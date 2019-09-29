@@ -12,7 +12,7 @@ selected = false
 title = "Zeb2 Regulates Cell Fate at the Exit from Epiblast State in Mouse Embryonic Stem Cells."
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.ncbi.nlm.nih.gov/pubmed/27739137"
+url_pdf = "https://www.rubendries.com/pdf/manuscript_Stryjewska_Zeb2_2016.pdf"
 url_project = "project/stem-cells/"
 url_slides = ""
 url_video = ""
@@ -20,3 +20,5 @@ url_video = ""
 +++
 
 **Contribution:** Analysis of RNAseq, RRBS and HT-qPCR data. Writing and editing of manuscript.
+
+![](/img/summary_Zeb2_stryjewska.png)

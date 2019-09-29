@@ -21,4 +21,4 @@ url_video = ""
 
 **Contribution:** Methodology, writing and overview of project.
 
-![](/img/rescue_summary.png)
+![](/img/summary_rescue_tracy.png)
