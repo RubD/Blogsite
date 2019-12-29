@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resistance on Biology explorer</title>
-    <link>https://rubendries.com/tags/resistance/</link>
+    <link>/tags/resistance/</link>
     <description>Recent content in Resistance on Biology explorer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ruben Dries</copyright>
     <lastBuildDate>Sat, 09 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rubendries.com/tags/resistance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/resistance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cancer</title>
-      <link>https://rubendries.com/project/cancer/</link>
+      <link>/project/cancer/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://rubendries.com/project/cancer/</guid>
+      <guid>/project/cancer/</guid>
       <description>Cancer genomics to study resistance development and tumor initiation.</description>
     </item>
     

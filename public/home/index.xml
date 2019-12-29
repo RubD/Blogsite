@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Biology explorer</title>
-    <link>https://rubendries.com/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Biology explorer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ruben Dries</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rubendries.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://rubendries.com/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rubendries.com/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Biography I am a computational biologist currently working at Dana-Farber Cancer Institute as a post-doc in the labs of Rani George, Guo-Cheng Yuan and Kwok-Kin Wong (untill the lab moved to NYU). I was born in Belgium where I did my Bachelor and Master in Biomedical Sciences at KU Leuven and was offered a scholarship to perform my master thesis in developmental biology in the lab of Anming Meng at Tsinghua University in China.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://rubendries.com/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rubendries.com/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://rubendries.com/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rubendries.com/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://rubendries.com/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rubendries.com/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://rubendries.com/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rubendries.com/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>https://rubendries.com/home/cv/</link>
+      <link>/home/cv/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rubendries.com/home/cv/</guid>
+      <guid>/home/cv/</guid>
       <description>Here you can download my CV</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://rubendries.com/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rubendries.com/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://rubendries.com/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://rubendries.com/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://rubendries.com/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://rubendries.com/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
