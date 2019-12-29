@@ -158,24 +158,6 @@
     
     <url>
     
-      <loc>https://rubendries.com/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://rubendries.com/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://rubendries.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -203,6 +185,24 @@
     
     <url>
     
+      <loc>https://rubendries.com/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rubendries.com/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rubendries.com/publication/jci_multiparametric-profiling-nsclc_lizotte/</loc>
       <lastmod>2016-09-08T00:00:00+00:00</lastmod>
     </url>
@@ -213,7 +213,7 @@
     <url>
     
       <loc>https://rubendries.com/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
   
