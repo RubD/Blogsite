@@ -13,7 +13,7 @@ title = "CDK7 Inhibition Potentiates Genome Instability Triggering Anti-tumor Im
 url_code = ""
 url_dataset = ""
 url_pdf = "https://www.rubendries.com/pdf/manuscript_Zhang_CDK7_2019.pdf"
-url_project = "project/immunology/", "project/cancer/"
+url_project = "project/immunology/"
 url_slides = ""
 url_video = ""
 
