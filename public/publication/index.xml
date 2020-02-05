@@ -2,193 +2,193 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Biology explorer</title>
-    <link>/publication/</link>
+    <link>https://rubendries.com/publication/</link>
     <description>Recent content in Publications on Biology explorer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ruben Dries</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rubendries.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CDK7 Inhibition Potentiates Genome Instability Triggering Anti-tumor Immunity in Small Cell Lung Cancer.</title>
-      <link>/publication/cancercell_cdk7_zhang/</link>
+      <link>https://rubendries.com/publication/cancercell_cdk7_zhang/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cancercell_cdk7_zhang/</guid>
+      <guid>https://rubendries.com/publication/cancercell_cdk7_zhang/</guid>
       <description>Contribution: Design, processing, analyzing and interpretation of data. Discussing, writing and editing of paper.</description>
     </item>
     
     <item>
       <title>Integrative and perturbation based analysis of the transcriptional dynamics of TGFβ/BMP system components in transition from embryonic stem cells to neural progenitors.</title>
-      <link>/publication/stem_cells_tgfb_dries/</link>
+      <link>https://rubendries.com/publication/stem_cells_tgfb_dries/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/stem_cells_tgfb_dries/</guid>
+      <guid>https://rubendries.com/publication/stem_cells_tgfb_dries/</guid>
       <description>Contribution: Design, generation, processing, analyzing and interpretation of all data. Discussing, writing and editing of paper.</description>
     </item>
     
     <item>
       <title>BORIS promotes chromatin regulatory interactions in treatment-resistant cancer cells.</title>
-      <link>/publication/nat_boris_debruyne/</link>
+      <link>https://rubendries.com/publication/nat_boris_debruyne/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/nat_boris_debruyne/</guid>
+      <guid>https://rubendries.com/publication/nat_boris_debruyne/</guid>
       <description>Contribution: Design, processing, analyzing and interpretation of scRNAseq, micro-array, ChIP-seq, HiChIP and public data. Discussing, writing and editing of paper.</description>
     </item>
     
     <item>
       <title>Giotto, a pipeline for integrative analysis and visualization of single-cell spatial transcriptomic data.</title>
-      <link>/publication/biorxiv_giotto_dries/</link>
+      <link>https://rubendries.com/publication/biorxiv_giotto_dries/</link>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/biorxiv_giotto_dries/</guid>
+      <guid>https://rubendries.com/publication/biorxiv_giotto_dries/</guid>
       <description>Contribution: Design and build of Giotto Analyzer. Discussing, writing and editing of paper.</description>
     </item>
     
     <item>
       <title>RESCUE: imputing dropout events in single- cell RNA-sequencing data.</title>
-      <link>/publication/bmc_bioinform_rescue_tracy/</link>
+      <link>https://rubendries.com/publication/bmc_bioinform_rescue_tracy/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/bmc_bioinform_rescue_tracy/</guid>
+      <guid>https://rubendries.com/publication/bmc_bioinform_rescue_tracy/</guid>
       <description>Contribution: Methodology, writing and overview of project.</description>
     </item>
     
     <item>
       <title>CDK12 loss in cancer cells affects DNA damage response genes through premature cleavage and polyadenylation.</title>
-      <link>/publication/natcomm_cdk12_krajewska/</link>
+      <link>https://rubendries.com/publication/natcomm_cdk12_krajewska/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/natcomm_cdk12_krajewska/</guid>
+      <guid>https://rubendries.com/publication/natcomm_cdk12_krajewska/</guid>
       <description>Contribution: Design, processing, analyzing and interpretation of TT-seq and Poly(A)-seq data. Discussing, writing and editing of paper.</description>
     </item>
     
     <item>
       <title>Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH&#43;</title>
-      <link>/publication/nat_seqfish_plus_eng/</link>
+      <link>https://rubendries.com/publication/nat_seqfish_plus_eng/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/nat_seqfish_plus_eng/</guid>
+      <guid>https://rubendries.com/publication/nat_seqfish_plus_eng/</guid>
       <description>Contribution: Data analysis and interpretation. Writing and editing of manuscript.</description>
     </item>
     
     <item>
       <title>Identification of spatially associated subpopulations by combining scrNAseq and sequential fluorescence in situ hybridization data.</title>
-      <link>/publication/nat_biotech_hmrf_seqfish_zhu/</link>
+      <link>https://rubendries.com/publication/nat_biotech_hmrf_seqfish_zhu/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/nat_biotech_hmrf_seqfish_zhu/</guid>
+      <guid>https://rubendries.com/publication/nat_biotech_hmrf_seqfish_zhu/</guid>
       <description>Contribution: Processing of high-throughput datasets. Data analysis and interpretation. Writing and editing of manuscript.</description>
     </item>
     
     <item>
       <title>NK cells mediate synergistic antitumor effects of combined inhibition of HDAC6 and BET in a SCLC preclinical model.</title>
-      <link>/publication/canc_res_nk_cells_hdac6_bet_liu/</link>
+      <link>https://rubendries.com/publication/canc_res_nk_cells_hdac6_bet_liu/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/canc_res_nk_cells_hdac6_bet_liu/</guid>
+      <guid>https://rubendries.com/publication/canc_res_nk_cells_hdac6_bet_liu/</guid>
       <description>Contribution: RNAseq processing and analysis</description>
     </item>
     
     <item>
       <title>Genomic and functional fidelity of small cell lung cancer patient-derived xenografts.</title>
-      <link>/publication/canc_disc_sclc_drapkin/</link>
+      <link>https://rubendries.com/publication/canc_disc_sclc_drapkin/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/canc_disc_sclc_drapkin/</guid>
+      <guid>https://rubendries.com/publication/canc_disc_sclc_drapkin/</guid>
       <description>Contribution: RNAseq processing and analysis</description>
     </item>
     
     <item>
       <title>Interleukin-17A Promotes Lung Tumor Progression through Neutrophil Attraction to Tumor Sites and Mediating Resistance to PD-1 Blockade.</title>
-      <link>/publication/j_thorac_onc_il17_pd1blockade_akbay/</link>
+      <link>https://rubendries.com/publication/j_thorac_onc_il17_pd1blockade_akbay/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/j_thorac_onc_il17_pd1blockade_akbay/</guid>
+      <guid>https://rubendries.com/publication/j_thorac_onc_il17_pd1blockade_akbay/</guid>
       <description>Contribution: Analysis of expression data.</description>
     </item>
     
     <item>
       <title>Synergistic Immunostimulatory Effects and Therapeutic Benefit of Combined Histone Deacetylase and Bromodomain Inhibition in Non-Small Cell Lung Cancer.</title>
-      <link>/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/</link>
+      <link>https://rubendries.com/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/</guid>
+      <guid>https://rubendries.com/publication/canc_disc_synergism_hdac_brd-inh_adeegbe/</guid>
       <description>Contribution: Single-cell RNAseq analysis.</description>
     </item>
     
     <item>
       <title>Zeb2 Regulates Cell Fate at the Exit from Epiblast State in Mouse Embryonic Stem Cells.</title>
-      <link>/publication/stem_cells_zeb2_mesc_stryjewska/</link>
+      <link>https://rubendries.com/publication/stem_cells_zeb2_mesc_stryjewska/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/stem_cells_zeb2_mesc_stryjewska/</guid>
+      <guid>https://rubendries.com/publication/stem_cells_zeb2_mesc_stryjewska/</guid>
       <description>Contribution: Analysis of RNAseq, RRBS and HT-qPCR data. Writing and editing of manuscript.</description>
     </item>
     
     <item>
       <title>Multiparametric profiling of non-small-cell lung cancers reveals distinct immunophenotypes.</title>
-      <link>/publication/jci_multiparametric-profiling-nsclc_lizotte/</link>
+      <link>https://rubendries.com/publication/jci_multiparametric-profiling-nsclc_lizotte/</link>
       <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/jci_multiparametric-profiling-nsclc_lizotte/</guid>
+      <guid>https://rubendries.com/publication/jci_multiparametric-profiling-nsclc_lizotte/</guid>
       <description>Contribution: Analysis of expression data.</description>
     </item>
     
     <item>
       <title>BMP-SMAD Signaling Regulates Lineage Priming, but Is Dispensable for Self-Renewal in Mouse Embryonic Stem Cells.</title>
-      <link>/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</link>
+      <link>https://rubendries.com/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</link>
       <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</guid>
+      <guid>https://rubendries.com/publication/stem_cell_reports_bmp_mesc_gomes_fernandes/</guid>
       <description>Contribution: Analysis of RNAseq and RRBS data. Editing of manuscript. More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>CDK4/6 Inhibition Augments Anti-Tumor Immunity by Enhancing T Cell Activation.</title>
-      <link>/publication/canc_disc_cdk4_6_inhibition_jiehui/</link>
+      <link>https://rubendries.com/publication/canc_disc_cdk4_6_inhibition_jiehui/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/canc_disc_cdk4_6_inhibition_jiehui/</guid>
+      <guid>https://rubendries.com/publication/canc_disc_cdk4_6_inhibition_jiehui/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Directed migration of cortical interneurons depends on the cell-autonomous action of Sip1.</title>
-      <link>/publication/neuron_zeb2_interneurons_vandenberghe/</link>
+      <link>https://rubendries.com/publication/neuron_zeb2_interneurons_vandenberghe/</link>
       <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/neuron_zeb2_interneurons_vandenberghe/</guid>
+      <guid>https://rubendries.com/publication/neuron_zeb2_interneurons_vandenberghe/</guid>
       <description>Contribution: qPCR experiments.</description>
     </item>
     
     <item>
       <title>Few Smad proteins and many Smad-interacting proteins yield multiple functions and action modes in TGFβ/BMP signaling in vivo.</title>
-      <link>/publication/review_tgf-b/</link>
+      <link>https://rubendries.com/publication/review_tgf-b/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>/publication/review_tgf-b/</guid>
+      <guid>https://rubendries.com/publication/review_tgf-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/publication/biorxiv_giotto_dries/</link>
+      <link>https://rubendries.com/publication/biorxiv_giotto_dries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/biorxiv_giotto_dries/</guid>
+      <guid>https://rubendries.com/publication/biorxiv_giotto_dries/</guid>
       <description>BioRxiv_Giotto_Dries.utf8.md /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;function&#34;===m.type(a)},isArray:Array.isArray||function(a){return&#34;array&#34;===m.type(a)},isWindow:function(a){return null!=a&amp;&amp;a==a.window},isNumeric:function(a){return!m.isArray(a)&amp;&amp;a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||&#34;object&#34;!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&amp;&amp;!j.call(a,&#34;constructor&#34;)&amp;&amp;!j.call(a.constructor.prototype,&#34;isPrototypeOf&#34;))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+&#34;&#34;:&#34;object&#34;==typeof a||&#34;function&#34;==typeof a?h[i.call(a)]||&#34;object&#34;:typeof a},globalEval:function(b){b&amp;&amp;m.trim(b)&amp;&amp;(a.execScript||function(b){a.eval.call(a,b)})(b)},camelCase:function(a){return a.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/publication/stem_cells_zeb2_mesc_stryjewska/</link>
+      <link>https://rubendries.com/publication/stem_cells_zeb2_mesc_stryjewska/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/stem_cells_zeb2_mesc_stryjewska/</guid>
+      <guid>https://rubendries.com/publication/stem_cells_zeb2_mesc_stryjewska/</guid>
       <description>Stem_Cells_Zeb2_mESC_Stryjewska.utf8.md /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;function&#34;===m.type(a)},isArray:Array.isArray||function(a){return&#34;array&#34;===m.type(a)},isWindow:function(a){return null!=a&amp;&amp;a==a.window},isNumeric:function(a){return!m.isArray(a)&amp;&amp;a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||&#34;object&#34;!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&amp;&amp;!j.call(a,&#34;constructor&#34;)&amp;&amp;!j.call(a.constructor.prototype,&#34;isPrototypeOf&#34;))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+&#34;&#34;:&#34;object&#34;==typeof a||&#34;function&#34;==typeof a?h[i.call(a)]||&#34;object&#34;:typeof a},globalEval:function(b){b&amp;&amp;m.trim(b)&amp;&amp;(a.execScript||function(b){a.eval.call(a,b)})(b)},camelCase:function(a){return a.</description>
     </item>
     
