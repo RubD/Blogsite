@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Spatial Expression</title>
+      <link>https://rubendries.com/project/spatial-expression/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubendries.com/project/spatial-expression/</guid>
+      <description>&lt;p&gt;I developed an open-source R package &lt;a href=&#34;https://rubd.github.io/Giotto/&#34; target=&#34;_blank&#34;&gt;Giotto&lt;/a&gt; to analyze and visualize spatial expression data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CDK7 Inhibition Potentiates Genome Instability Triggering Anti-tumor Immunity in Small Cell Lung Cancer.</title>
       <link>https://rubendries.com/publication/cancercell_cdk7_zhang/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
@@ -165,16 +175,6 @@
       
       <guid>https://rubendries.com/project/stem-cells/</guid>
       <description>&lt;p&gt;During my PhD I worked on stem cells and mouse embryonic development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transcription</title>
-      <link>https://rubendries.com/project/transcription/</link>
-      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rubendries.com/project/transcription/</guid>
-      <description>&lt;p&gt;Layers of transcriptional control and drugging transcription.&lt;/p&gt;
 </description>
     </item>
     

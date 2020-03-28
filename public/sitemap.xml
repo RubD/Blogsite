@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://rubendries.com/project/spatial-expression/</loc>
+      <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rubendries.com/publication/cancercell_cdk7_zhang/</loc>
       <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     </url>
@@ -321,6 +330,16 @@
     
     <url>
     
+      <loc>https://rubendries.com/tags/communication/</loc>
+      <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rubendries.com/tags/development/</loc>
       <lastmod>2017-09-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -351,8 +370,28 @@
     
     <url>
     
+      <loc>https://rubendries.com/tags/giotto/</loc>
+      <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://rubendries.com/tags/immunology/</loc>
       <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rubendries.com/tags/microenvironment/</loc>
+      <lastmod>2020-03-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -372,7 +411,7 @@
     <url>
     
       <loc>https://rubendries.com/project/</loc>
-      <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+      <lastmod>2020-03-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -423,6 +462,16 @@
     
       <loc>https://rubendries.com/tags/single-cell/</loc>
       <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rubendries.com/tags/spatial-expression/</loc>
+      <lastmod>2020-03-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -6,8 +6,7 @@ date = "2020-03-27"
 title = "Spatial Expression"
 
 # Project summary to display on homepage.
-summary = "Exploration of the spatial cellular microenvironment. What are the sources of spatial variability?
-How do cells communicate? How can we integrate different spatial and single-cell technologies?"
+summary = "Exploration of the spatial cellular microenvironment. What are the sources of spatial variability? How do cells communicate? How can we integrate different spatial and single-cell technologies?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "spatial.png"
