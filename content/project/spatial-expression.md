@@ -14,7 +14,7 @@ image_preview = "spatial.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "stem-cells"]`
-tags = ["spatial", "giotto", "microenvironment", "communication"]
+tags = ["spatial-expression", "giotto", "microenvironment", "communication"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://rubd.github.io/Giotto/index.html"
