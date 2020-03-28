@@ -52,4 +52,7 @@ filter_default = 0
   name = "Single-cell"
   tag = ".single-cell"
 
+[[filter]]
+  name = "Spatial Expression"
+  tag = ".spatial-expression"
 +++
