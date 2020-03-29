@@ -301,16 +301,6 @@
     
     <url>
     
-      <loc>https://rubendries.com/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://rubendries.com/tags/cancer/</loc>
       <lastmod>2017-09-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -352,6 +342,16 @@
     
       <loc>https://rubendries.com/tags/drugs/</loc>
       <lastmod>2017-09-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://rubendries.com/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
